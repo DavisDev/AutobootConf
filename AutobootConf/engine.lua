@@ -1,3 +1,5 @@
+files.mkdir("ux0:/data/AutoBoot/") -- Create a work folder :)
+
 local version = files.read("ux0:/data/AutoBoot/version")
 
 if not version or tonumber(version) < APP_VERSION then -- Have old version installed, update! ;)

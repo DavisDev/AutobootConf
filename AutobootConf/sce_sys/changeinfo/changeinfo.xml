@@ -8,4 +8,10 @@
 - Added suport to enable/disable plugin.<br>
     ]]>
   </changes>
+  <changes app_ver="01.10">
+    <![CDATA[
+- A little re organized code..<br>
+- Updated the 'AutoBoot' to 1.2 version, compatible with enso.<br>
+    ]]>
+  </changes>
 </changeinfo>

@@ -2,10 +2,11 @@
 	Particles FX library.
 	Draw a shower of particles.
 	
-	Licensed by Creative Commons Attribution-ShareAlike 4.0
-	http://creativecommons.org/licenses/by-sa/4.0/
+	Licensed by GNU General Public License v3.0
 	
-	Designed By DevDavisNunez.
+	Designed By:
+	- DevDavisNunez (https://twitter.com/DevDavisNunez).
+	
 ]]
 
 stars = {math={}} -- module stars! :D
