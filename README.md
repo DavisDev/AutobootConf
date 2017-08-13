@@ -2,7 +2,7 @@
 
 Easy Configurator for AutoBoot Plugin.
 
-![header](preview.jpg)
+![header](preview.png)
 
 ### Description ###
 This useful application allows you to simply and easily configure the 'AutoBoot' plugin, to select the target to be launched automatically at each start.
@@ -11,6 +11,9 @@ This useful application allows you to simply and easily configure the 'AutoBoot'
 - [up]/[down]: Navigate the application list.
 - [cross]: Set a selected application as default boot.
 - [l]/[r]: Disable/Enable the plugin.
+
+### Changelog 1.2 ###
+- Fix to remove old updater bubble.
 
 ### Changelog 1.1 ###
 - A little re organized code.

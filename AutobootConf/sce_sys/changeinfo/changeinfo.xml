@@ -14,4 +14,9 @@
 - Updated the 'AutoBoot' to 1.2 version, compatible with enso.<br>
     ]]>
   </changes>
+  <changes app_ver="01.20">
+    <![CDATA[
+- Fix to remove old updater bubble.<br>
+    ]]>
+  </changes>
 </changeinfo>

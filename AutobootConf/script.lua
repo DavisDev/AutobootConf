@@ -10,7 +10,7 @@
 	
 	Collaborators: BaltaR4.
 	
-	Version 1.1 at 11:30 pm - 12/08/17
+	Version 1.2 at 00:30 am - 13/08/17
 	
 ]]
 

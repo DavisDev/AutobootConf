@@ -4,6 +4,11 @@ if files.exists("ux0:/app/ONEUPDATE") then
 	game.delete("ONEUPDATE") -- Exists delete update app
 end
 
+if files.exists("ux0:/app/ABUPDATER") then -- Patch to the old updater no general! :)
+	game.delete("ABUPDATER") -- Exists delete update app
+end
+
+
 UPDATE_PORT = channel.new("UPDATE_PORT")
 
 local scr_flip = screen.flip
